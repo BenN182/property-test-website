@@ -1,4 +1,3 @@
-// Load and display properties on the main page
 document.addEventListener('DOMContentLoaded', function() {
     fetch('myProperties.json')
         .then(response => {
@@ -19,26 +18,30 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function displayProperties(properties) {
     const container = document.getElementById('property-listings');
-    container.innerHTML = ''; // Clear loading message
+    container.innerHTML = '';
     
     properties.forEach(property => {
-        // Get the first picture from the comma-separated string
         const firstPicture = property.Pictures.split(',')[0].trim();
-        
-        // Format price with spaces
         const formattedPrice = 'R ' + property.Price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
         
-        // Create property card
         const card = document.createElement('div');
         card.className = 'property-card';
-        card.setAttribute('data-property-id', property.ID);
         
-        // Create clickable image link
+        // Create clickable link with ID parameter - FIXED
         const imageLink = document.createElement('a');
         imageLink.href = `gallery.html?id=${property.ID}`;
-        imageLink.innerHTML = `<img src="${firstPicture}" alt="${property.Description}" loading="lazy">`;
+        console.log(`Creating link for property ${property.ID}: ${imageLink.href}`); // Debug log
         
-        // Create description paragraph
+        const img = document.createElement('img');
+        img.src = firstPicture;
+        img.alt = property.Description;
+        img.loading = 'lazy';
+        img.onerror = function() {
+            this.src = 'https://via.placeholder.com/300x200?text=Property+Image';
+        };
+        
+        imageLink.appendChild(img);
+        
         const description = document.createElement('p');
         description.textContent = `${property.Bedrooms} Bedroom ${property['Property Type']} in ${property.Suburb}, ${property.Town}, ${formattedPrice}`;
         
