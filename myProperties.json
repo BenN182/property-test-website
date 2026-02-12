@@ -1,0 +1,34 @@
+[
+    {
+        "ID": 786744171,
+        "Property Type": "Town House",
+        "Price": 780000,
+        "Town": "Kempton Park",
+        "Suburb": "Birchleigh",
+        "Bedrooms": 2,
+        "Bathrooms": 1,
+        "Garages": 1,
+        "Carports": 0,
+        "Pool": false,
+        "Description": "Simplex town house with private garden for sale in Birchleigh for R780 000",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899777/10_ydvwn6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899776/9_iyjdpn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/5_ddu0lr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/6_pjdy2x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/8_llyuxo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899774/1_wouzxr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899774/7_rhwb3c.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/4_tlnab5.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/2_cvuxwm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/3_cgqfcp.jpg",
+        "Floor size": null,
+        "Stand size": null
+    },
+    {
+        "ID": -913802288,
+        "Property Type": "House",
+        "Price": 1350000,
+        "Town": "Kempton Park",
+        "Suburb": "Cresslawn",
+        "Bedrooms": 3,
+        "Bathrooms": 1,
+        "Garages": 1,
+        "Carports": 1,
+        "Pool": true,
+        "Description": "Well priced free standing house for sale in Cresslawn, whether you are looking for a spacious property to live in or investment opportunity; this property is right for you.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901601/20260117_091320558_iOS_wgdmmc.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901599/20260117_091353963_iOS_xs2dov.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901597/20260117_091343167_iOS_iwgsq6.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901596/20260117_091334798_iOS_g0fuj4.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901594/20260117_091317050_iOS_lm71c1.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901592/20260117_090804547_iOS_d13h0u.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901592/20260117_091227764_iOS_zzvfaa.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901590/20260117_091150380_iOS_fyq1az.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901588/20260117_091057305_iOS_vmf1pm.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901587/20260117_090951323_iOS_sb2psl.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901585/20260117_090744049_iOS_uxihx2.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901587/20260117_090739244_iOS_ufww8f.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901587/20260117_090914503_iOS_pmrnnk.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901586/20260117_090941792_iOS_uwdybb.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901586/20260117_090857818_iOS_a1wst6.heic, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770901585/20260117_090838219_iOS_mwb8ox.heic",
+        "Floor size": 0,
+        "Stand size": 1050
+    }
+]

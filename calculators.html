@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Property affordability calculators.">
+<title>Property Calculators</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="logo">Ben Nleya</div>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="myproperties.html">Properties</a></li>
+    <li><a href="calculators.html">Calculators</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- AFFORDABILITY CALCULATOR -->
+<section class="calculator">
+  <img src="calculator.jpg" alt="Calculator">
+
+  <input
+    type="text"
+    id="price"
+    placeholder="Property Price (R)"
+    oninput="formatInput(this)"
+  >
+
+  <button onclick="repay()">Monthly Repayment</button>
+  <p id="rep"></p>
+
+  <button onclick="income()">Required Monthly Gross Income</button>
+  <p id="inc"></p>
+
+  <div class="links">
+    <a target="_blank" href="https://property-affordability-credit-check-uwtvl4f7dmlpgshjjsw6bt.streamlit.app/">Pre-Qualification App</a>
+    <a target="_blank" href="https://gis.ekurhuleni.gov.za/mapviewer/">Ekurhuleni GIS</a>
+  </div>
+</section>
+
+<!-- DIVIDER -->
+<hr class="divider">
+
+<!-- TRANSFER & BOND COSTS CALCULATOR -->
+<section class="calculator">
+  <h2>Transfer & Bond Costs Calculator</h2>
+
+  <input
+    type="text"
+    id="tb-price"
+    placeholder="Property Price (R)"
+    oninput="formatInput(this)"
+  >
+  <input
+    type="text"
+    id="loan-amount"
+    placeholder="Loan Amount (R)"
+    oninput="formatInput(this)"
+  >
+
+  <button onclick="calcTransferBond()">Calculate Costs</button>
+
+  <p id="transfer-costs"></p>
+  <p id="bond-costs"></p>
+  <p id="total-costs"></p>
+
+  <small>Estimates based on SARS transfer duty brackets and typical attorney/bank fees. For exact costs, consult a conveyancer or bank.</small>
+</section>
+
+<script>
+/* Format number as South African Rand */
+function formatRand(value) {
+  return 'R ' + Math.round(value).toLocaleString('en-ZA');
+}
+
+/* Format input while typing */
+function formatInput(input) {
+  let value = input.value.replace(/\s/g, '').replace(/\D/g, '');
+  if (value === '') {
+    input.value = '';
+    return;
+  }
+  input.value = Number(value).toLocaleString('en-ZA');
+}
+
+/* Get numeric value from formatted input */
+function getNumericValue(id) {
+  const el = document.getElementById(id);
+  return Number(el.value.replace(/\s/g, '')) || 0;
+}
+
+/* AFFORDABILITY CALCULATOR */
+function getPrice() {
+  return getNumericValue('price');
+}
+
+function repay() {
+  const p = getPrice();
+  rep.innerText = p ? "Estimated Monthly Repayment: " + formatRand(p * 0.01125) : '';
+}
+
+function income() {
+  const p = getPrice();
+  inc.innerText = p ? "Required Monthly Gross Income: " + formatRand((p * 0.01125) / 0.3) : '';
+}
+
+/* TRANSFER & BOND COSTS CALCULATOR */
+function calcTransferBond() {
+  const price = getNumericValue('tb-price');
+  const loan = getNumericValue('loan-amount');
+
+  if (!price || !loan) return;
+
+  // --- Transfer Duty ---
+  let transferDuty = 0;
+  if (price <= 1100000) transferDuty = 0;
+  else if (price <= 1512500) transferDuty = (price - 1100000) * 0.03;
+  else if (price <= 2117500) transferDuty = 12375 + (price - 1512500) * 0.06;
+  else if (price <= 10000000) transferDuty = 45000 + (price - 2117500) * 0.08;
+  else transferDuty = 709000 + (price - 10000000) * 0.11;
+
+  // --- Transfer Costs (Property purchase-related) ---
+  const transferRegCost = price * 0.023;  // property transfer cost (approx %)
+  const deedsOfficeTransfer = 1646;       // fixed
+  const postFicaTransfer = 2485;          // fixed
+  const totalTransferCosts = transferRegCost + deedsOfficeTransfer + postFicaTransfer + transferDuty;
+
+  // --- Bond Costs (Loan-related) ---
+  const bondRegCost = loan * 0.023;       // bond registration cost (approx %)
+  const bankInitFee = 6038;               // fixed
+  const deedsOfficeBond = 1646;           // fixed
+  const postFicaBond = 2485;              // fixed
+  const totalBondCosts = bondRegCost + bankInitFee + deedsOfficeBond + postFicaBond;
+
+  // --- Total Costs ---
+  const totalCosts = totalTransferCosts + totalBondCosts;
+
+  // Display breakdown
+  document.getElementById('transfer-costs').innerText =
+    "Transfer Costs: " + formatRand(transferRegCost + deedsOfficeTransfer + postFicaTransfer + transferDuty);
+  document.getElementById('bond-costs').innerText =
+    "Bond Costs: " + formatRand(bondRegCost + bankInitFee + deedsOfficeBond + postFicaBond);
+  document.getElementById('total-costs').innerText =
+    "Total Estimated Costs: " + formatRand(totalCosts);
+}
+</script>
+
+<a href="https://wa.me/27696466635" class="whatsapp" target="_blank">WhatsApp</a>
+
+<footer>
+  <p>&copy; 2026 Ben Nleya</p>
+</footer>
+
+</body>
+</html>
