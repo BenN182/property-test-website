@@ -30,6 +30,21 @@
         "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910614/20260203_082140281_iOS_ibqfzo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910612/20260203_080632956_iOS_optc2z.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910611/20260203_080601633_iOS_iyctn9.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910609/20260203_080611856_iOS_gsgi2r.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910609/20260203_080544448_iOS_t4hddt.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910608/20260203_080552081_iOS_nms71x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080133375_iOS_zgsgnm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910608/20260203_080552081_iOS_nms71x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080527873_iOS_jafpp6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080518336_iOS_bfkprk.jpg",
         "Floor size": 60,
         "Stand size": 0
+    },
+    {
+        "ID": 1770982580,
+        "Property Type": "Flat",
+        "Price": 425000,
+        "Town": "Kempton Park",
+        "Suburb": "Kempton Park CBD",
+        "Bedrooms": 2,
+        "Bathrooms": 1,
+        "Garages": 0,
+        "Carports": 1,
+        "Pool": false,
+        "Description": "Great investment opportunity in Kempton Park CBD. This 2 Bed 1st floor flat is available in Victoria Close along Kempton road. The property is in good condition is a great investment opportunity for someone looking to extend their property portfolio or a 1st time home-buyer. Electricity is prepaid; levies - R1 685, Rates - R640, potential rental amount - R5 700.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982480/5%20Victoria%20Close/d8mwysfxgl7aaf6hzfux.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982482/5%20Victoria%20Close/bfzlcky8wwblr3plu9cd.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982485/5%20Victoria%20Close/hjtthinelolzapjbqehn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982487/5%20Victoria%20Close/q4oyoz8f3dkogeq8ctx1.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982490/5%20Victoria%20Close/lqqyfc4bz50weuxpdlbj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982494/5%20Victoria%20Close/zmpfrtxiqw8mv88tffy7.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982496/5%20Victoria%20Close/agxuquz5mrr5ownubplc.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982497/5%20Victoria%20Close/j7nurs3c6ojt1bzyav7d.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982498/5%20Victoria%20Close/x1k9f9ihqltllzpn4uh6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982500/5%20Victoria%20Close/m0wasun8w0yhkru22v48.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982502/5%20Victoria%20Close/dp9w7gckn9gon6qhllho.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982504/5%20Victoria%20Close/bgksxvw6w6rewjbupyfy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982506/5%20Victoria%20Close/vm6kqfmvnxyo9fyr1vpy.jpg",
+        "Floor size": 60,
+        "Stand size": 0
     }
-
 ]
