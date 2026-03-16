@@ -19,6 +19,87 @@
 </ul>
 </nav>
 
+<!-- Filter Section -->
+<section class="filter-section">
+    <h2>Filter Properties</h2>
+    
+    <div class="filter-controls">
+        <div class="filter-group">
+            <label for="filter-price">Max Price</label>
+            <select id="filter-price">
+                <option value="">Any Price</option>
+                <option value="500000">R 500,000</option>
+                <option value="750000">R 750,000</option>
+                <option value="1000000">R 1,000,000</option>
+                <option value="1250000">R 1,250,000</option>
+                <option value="1500000">R 1,500,000</option>
+                <option value="2000000">R 2,000,000</option>
+                <option value="2500000">R 2,500,000</option>
+                <option value="3000000">R 3,000,000+</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-type">Property Type</label>
+            <select id="filter-type">
+                <option value="">All Types</option>
+                <option value="House">House</option>
+                <option value="Town House">Town House</option>
+                <option value="Apartment">Apartment</option>
+                <option value="Duplex">Duplex</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-town">Town</label>
+            <select id="filter-town">
+                <option value="">All Towns</option>
+                <!-- Will be populated dynamically -->
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-suburb">Suburb</label>
+            <select id="filter-suburb">
+                <option value="">All Suburbs</option>
+                <!-- Will be populated dynamically -->
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-bedrooms">Min Bedrooms</label>
+            <select id="filter-bedrooms">
+                <option value="">Any</option>
+                <option value="1">1+</option>
+                <option value="2">2+</option>
+                <option value="3">3+</option>
+                <option value="4">4+</option>
+                <option value="5">5+</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <label for="filter-bathrooms">Min Bathrooms</label>
+            <select id="filter-bathrooms">
+                <option value="">Any</option>
+                <option value="1">1+</option>
+                <option value="2">2+</option>
+                <option value="3">3+</option>
+                <option value="4">4+</option>
+            </select>
+        </div>
+
+        <div class="filter-group filter-actions">
+            <button id="apply-filters" class="button">Apply Filters</button>
+            <button id="clear-filters" class="button button-secondary">Clear</button>
+        </div>
+    </div>
+    
+    <div class="filter-stats">
+        <span id="property-count">Loading properties...</span>
+    </div>
+</section>
+
 <section class="properties" id="property-listings">
     <!-- Properties will be loaded dynamically here -->
     <div class="loading">Loading properties...</div>
