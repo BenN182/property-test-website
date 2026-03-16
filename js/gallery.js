@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Show loading message
     container.innerHTML = '<div class="loading">Loading property details...</div>';
     
-    fetch('myProperties.json')
+    fetch(`myProperties.json?v=${Date.now()}`)
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
