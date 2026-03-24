@@ -346,3 +346,268 @@ iframe{width:100%;height:300px;border:0}
         border: 1px solid #ddd;
     }
 }
+
+/* ===== FILTER SECTION STYLES ===== */
+.filter-section {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.filter-section h2 {
+    color: #333;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+
+.filter-controls {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-group label {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.3rem;
+    font-weight: 500;
+}
+
+.filter-group select {
+    padding: 0.6rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 0.95rem;
+    background: white;
+    cursor: pointer;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.filter-group select:hover {
+    border-color: #c59d5f;
+}
+
+.filter-group select:focus {
+    outline: none;
+    border-color: #c59d5f;
+    box-shadow: 0 0 0 3px rgba(197, 157, 95, 0.1);
+}
+
+.filter-actions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-end;
+}
+
+.filter-actions .button {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+    border: none;
+    cursor: pointer;
+    flex: 1;
+    text-align: center;
+}
+
+.button-secondary {
+    background: #6c757d;
+}
+
+.button-secondary:hover {
+    background: #5a6268;
+}
+
+.filter-stats {
+    margin-top: 1rem;
+    text-align: right;
+    color: #666;
+    font-size: 0.9rem;
+    padding: 0.5rem 0;
+}
+
+/* Enhanced Property Card Styles */
+.property-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.property-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.property-card a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.property-card img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.property-card:hover img {
+    transform: scale(1.05);
+}
+
+.property-card p {
+    padding: 15px 15px 10px;
+    margin: 0;
+    font-weight: 500;
+    color: #333;
+}
+
+.property-card-specs {
+    display: flex;
+    gap: 1rem;
+    padding: 0.5rem 1rem 1rem;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #eee;
+    margin-top: auto;
+}
+
+.property-card-specs span {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    background: #f8f9fa;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+}
+
+/* No Results State */
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    background: #f8f9fa;
+    border-radius: 10px;
+    color: #666;
+    font-size: 1.1rem;
+    grid-column: 1 / -1;
+    border: 2px dashed #ddd;
+}
+
+/* Active Filter Indicators */
+.filter-group select:invalid {
+    color: #666;
+}
+
+/* Responsive adjustments for filters */
+@media (max-width: 768px) {
+    .filter-controls {
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+        padding: 1rem;
+    }
+    
+    .filter-actions {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .filter-actions .button {
+        width: 100%;
+        padding: 0.8rem;
+    }
+    
+    .filter-section h2 {
+        font-size: 1.3rem;
+        margin-bottom: 0.8rem;
+    }
+    
+    .property-card-specs {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .filter-section {
+        padding: 0 0.5rem;
+    }
+    
+    .filter-group select {
+        padding: 0.8rem; /* Larger touch target for mobile */
+    }
+    
+    .property-card img {
+        height: 200px;
+    }
+    
+    .property-card-specs {
+        font-size: 0.8rem;
+    }
+}
+
+/* Optional: Add a small animation when filters are applied */
+@keyframes filterUpdate {
+    0% { opacity: 0.5; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+.properties {
+    animation: filterUpdate 0.3s ease;
+}
+
+/* Style for the property count display */
+#property-count {
+    font-weight: 600;
+    color: #c59d5f;
+}
+
+/* Optional: Style for the filter section title with accent */
+.filter-section h2:after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #c59d5f;
+    margin-top: 5px;
+    border-radius: 2px;
+}
+
+/* Optional: Style for the "Clear" button hover state */
+.button-secondary:hover {
+    background: #5a6268;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Optional: Style for disabled state when no properties */
+.property-card[style*="display: none"] {
+    display: none !important;
+}
+
+/* Optional: Improve the properties grid layout */
+.properties {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Optional: Add a subtle background to the filter section */
+.filter-section {
+    background: linear-gradient(to bottom, #fff, #fafafa);
+    padding: 2rem 1rem;
+    border-bottom: 1px solid #eee;
+}
