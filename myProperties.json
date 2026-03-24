@@ -1,5 +1,124 @@
 [
     {
+        "ID": 1770987301,
+        "Property Type": "House",
+        "Price": 2195000,
+        "Town": "Kempton Park",
+        "Suburb": "Glen Marais",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "Garages": 2,
+        "Carports": 4,
+        "Pool": true,
+        "Description": "This stunning, well-maintained, and modernised 4-bedroom family home in Glen Marais, Kempton Park offers exceptional space, functionality, and entertainment appeal, making it ideal for families and buyers seeking income potential. The home features four spacious bedrooms and two bathrooms, including a luxurious main suite with en-suite bathroom, air conditioning, and walk-in closet, as well as an additional outside guest toilet for convenience. A welcoming entrance hall leads to expansive living and dining areas divided by a gas fireplace, with folding doors enhancing indoor-outdoor flow, while a dedicated double-workstation study opens onto a covered patio overlooking a fibreglass swimming pool. The modern, well-equipped kitchen boasts a gas hob, double oven, large pantry, ample cupboards, and space for major appliances. Outdoors, a generous garden, pool, and optional vegetable garden are complemented by a separate entertainment area with bar, braai, stove, and bathroom, easily convertible into a granny flat or rental unit. Additional features include a double garage suitable for a bakkie, ample storage, borehole, alarm system, intercom, CCTV cameras, and secure gas installation, all ideally located opposite a security complex in the sought-after suburb of Glen Marais with easy access to major routes and amenities.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987152/47%20Anemoon/nddmtucbnbjcawqdb8bo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987153/47%20Anemoon/b3tsxlk2iw0l4s2mrbpj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987154/47%20Anemoon/ozucqnlthod7npuamicr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987155/47%20Anemoon/bwu70qugazuaeovpjobb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987155/47%20Anemoon/mzhjfraxoopuuxg9w2c6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987156/47%20Anemoon/jahgisna419qv9uirden.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987157/47%20Anemoon/bihkm0k5iwsldkzgfi7k.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987158/47%20Anemoon/scjjuvcuxzrnkaeuv7za.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987159/47%20Anemoon/m5t62gyjemzxcgd8bpiu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987160/47%20Anemoon/u75bx2eohyo4dzklb8ii.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987161/47%20Anemoon/lvb4eo0mee86fwjgx423.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987162/47%20Anemoon/npgcemzmkhhw2gog1be4.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987163/47%20Anemoon/ofwndcehlx38mfjkvile.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987164/47%20Anemoon/jebfhojbfaeo0qlv0udw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987165/47%20Anemoon/ylqt5h0uzsf1qgnoicmn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987166/47%20Anemoon/zzn2pzaw6htr0fsnrumy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987166/47%20Anemoon/s6phixbfyby3ji7fkbyj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987167/47%20Anemoon/p2tig6zmjoqdlir4kfwj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987168/47%20Anemoon/nkccskka44vziqzju0tu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987169/47%20Anemoon/t7kphdazxwnlxalrh2bm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987170/47%20Anemoon/gowlydi3rbjeahkfwkf6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987171/47%20Anemoon/yyc3qjkh1i4dedhe6efs.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987172/47%20Anemoon/ymxicyqkn0ftqvotwibh.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987174/47%20Anemoon/gftf4bhpowucfguzlwev.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987176/47%20Anemoon/dwqxxoblluzmnerijfvx.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987177/47%20Anemoon/dxpskz289e39obejj1av.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987178/47%20Anemoon/mukurcfekd70hyekhxqz.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987179/47%20Anemoon/mwneahfiqxnmazak72y7.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987180/47%20Anemoon/qnqj1rfwg605ysij5unz.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987181/47%20Anemoon/ju1ml6jgepfs9eicsxhp.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987182/47%20Anemoon/o0h6ktjqhnqafi4ccb1t.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770987183/47%20Anemoon/dcdenapx01pw9bfp4tnt.jpg",
+        "Floor size": 0,
+        "Stand size": 991,
+        "RNO": null
+    },
+    {
+        "ID": 1771073939,
+        "Property Type": "House",
+        "Price": 1250000,
+        "Town": "Kempton Park",
+        "Suburb": "Esther Park",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Garages": 2,
+        "Carports": 2,
+        "Pool": false,
+        "Description": "Set on a generous 1001 stand, this well-maintained family home offers comfortable living with versatile spaces and solid construction throughout. The property features an inviting entrance hall leading to a carpeted dining room that opens onto the garden, a spacious carpeted family room, and a large study with built-in cupboards that can easily serve as an additional bedroom. The home boasts three large, carpeted bedrooms with built-in cupboards, two bathrooms including a renovated full bathroom tiled to the ceiling, and a main en-suite. The sizeable kitchen is finished with melamine cupboards, tiled flooring, and a four-plate gas stove, complemented by a large scullery with double sink and combined laundry facilities, while an additional outside laundry adds convenience. Practical extras include a double garage with roll-up doors and workshop, two carports, concrete driveway, flat IBR roof, plaster exterior, and pre-cast concrete walling on all sides. Outdoors, enjoy a level communal garden, enclosed secure area, and a dedicated braai area, making this property ideal for relaxed family living and entertaining.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073722/8%20WISTARIA/v3muvagwymlft3st01c5.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073723/8%20WISTARIA/sujc6qs17hanaegihs6m.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073724/8%20WISTARIA/dgfnobdcnbtwmsbxyu8a.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073724/8%20WISTARIA/ba3mcj9ydtbovebqjpcu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073725/8%20WISTARIA/hl5i0ryyrg1ngsxdumpo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073726/8%20WISTARIA/grz5tnyonptecmqlsetw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073727/8%20WISTARIA/ec2vusdrrx62ruzxuz0l.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073728/8%20WISTARIA/bgx28rhvb32fufx9ujzq.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073729/8%20WISTARIA/k1h2jxhioozzggueecpw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073730/8%20WISTARIA/eomfmbmamqgdrculhafe.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073731/8%20WISTARIA/nwtddzvffiub6ncojrvo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073731/8%20WISTARIA/giuxqiqrknddovbmgwoq.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073732/8%20WISTARIA/sspluaugl9cvqjlfak2b.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073733/8%20WISTARIA/pqrdgzmmdghlw8y2d0sb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073734/8%20WISTARIA/j5gdpb58zk1bfnnyek1a.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073735/8%20WISTARIA/kso32bcwc1knxsctiiqc.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073735/8%20WISTARIA/ia2nz377r34m4jfdhmdt.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073736/8%20WISTARIA/penlvwqtkoyu3nvgbpri.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073737/8%20WISTARIA/dwxm78degtfx145wbu31.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771073738/8%20WISTARIA/zy7xvv6yb2zubhkum3gy.jpg",
+        "Floor size": 0,
+        "Stand size": 1001,
+        "RNO": "1014935"
+    },
+    {
+        "ID": 1771074817,
+        "Property Type": "House",
+        "Price": 1295000,
+        "Town": "Kempton Park",
+        "Suburb": "Cresslawn",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Garages": 1,
+        "Carports": 0,
+        "Pool": true,
+        "Description": "Situated on a generous 1,095 stand in the sought-after area of Cresslawn, Kempton Park, this inviting family home offers comfortable living and excellent outdoor appeal. The property features a carpeted lounge and an L-shaped, carpeted dining room ideal for entertaining, along with a well-appointed wooden kitchen fitted with a double ELO. Three large, carpeted bedrooms with built-in cupboards provide ample accommodation, complemented by two bathrooms including a main en-suite. Outdoors, the home boasts an established garden and a large swimming pool with an auto cleaner, perfect for family enjoyment. Additional features include a tiled roof, plaster exterior, paved driveway, single garage with tip-up door, full perimeter walling, and added peace of mind with burglar bars and security doors, making this a well-rounded and secure home.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074681/8%20RIGGER/whaenrydm0log9atmuob.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074682/8%20RIGGER/xkzlhsfmi8mpeiir2x0j.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074683/8%20RIGGER/bl4rkdx3vud6jomnqshy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074684/8%20RIGGER/c60bjjjbd7d7ycpcbutw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074685/8%20RIGGER/brxxz47zihg7fiodfvup.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074686/8%20RIGGER/rsooqyuaclawkwhww5fg.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074686/8%20RIGGER/izsbgd4occm5oabhoiky.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074687/8%20RIGGER/gkyxqbdy6ihkusy8uvyr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074688/8%20RIGGER/l7qg461mfy8fshwlnylb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074689/8%20RIGGER/lwoewynhaxzfwhapvt8b.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074690/8%20RIGGER/dwzykfyxedbwghb5e6l3.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074691/8%20RIGGER/zxijoq58oiy7jd99bzvo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074692/8%20RIGGER/itlgyhuijccrbjmo41k3.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074692/8%20RIGGER/y0xr1229didbdkg9f6w9.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074693/8%20RIGGER/odm1lxvn0gkpz32bi8h2.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074694/8%20RIGGER/dn4xdkdqmzpomwwx4lxl.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074695/8%20RIGGER/l6noxexg0gphvwyrcstk.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074695/8%20RIGGER/xfftkuvqv9ruhocmcuuj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074696/8%20RIGGER/tqfnevjev9onpmn13kmo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074697/8%20RIGGER/eqe83gh5liywkuxtluqx.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074698/8%20RIGGER/uv3ormxakfnrr7n4gsmm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074699/8%20RIGGER/bfyidglg3zpx9cpb7jhb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074699/8%20RIGGER/qyjjdqdiiddcxd9gduvh.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074700/8%20RIGGER/ebnmnlcu9673bt4ba6hv.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771074701/8%20RIGGER/dbujjoqtzh0vf2vvuang.jpg",
+        "Floor size": 0,
+        "Stand size": 1095,
+        "RNO": "1011998"
+    },
+    {
+        "ID": 1771076238,
+        "Property Type": "House",
+        "Price": 1295000,
+        "Town": "Kempton Park",
+        "Suburb": "Birchleigh North",
+        "Bedrooms": 4,
+        "Bathrooms": 2,
+        "Garages": 0,
+        "Carports": 0,
+        "Pool": true,
+        "Description": "Located in Lewies, Birchleigh North Ext 3, Kempton Park, this spacious family home offers comfortable living on a well-kept stand with excellent outdoor features. The property welcomes you with a large entrance hall flowing into an equally generous lounge, creating a warm and open living environment. It offers four bedrooms, two standard bathrooms, and a practical kitchen with a four-plate stove, supported by a scullery, pantry, and separate laundry for added convenience. Outdoors, the neat garden surrounds a charming rock pool and dedicated braai area, ideal for relaxed entertaining. Additional features include staff quarters, paved driveway, plaster exterior, durable HarveyTile roof, full perimeter walling, and the added security of an alarm system, making this home both functional and family-friendly.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075972/3%20LEWIES/hqgzigbbnytm2bh4mzrb.jpg,\r\nhttps://res.cloudinary.com/dag0mcbzj/image/upload/v1771075957/3%20LEWIES/wwyyh3hirn1kd2he030o.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075958/3%20LEWIES/nxmlqhtmf1ghdx3rwgus.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075959/3%20LEWIES/mjmgfyuw8pw1xxxughac.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075960/3%20LEWIES/xdvvq2xgqolqxt5ddt02.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075961/3%20LEWIES/p8vo0olxzzafjwx7igwu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075962/3%20LEWIES/lbaqh3mguvvfbdupmxtu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075963/3%20LEWIES/fxk1xhfhstt5ei7fzobr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075964/3%20LEWIES/m0qcgpyaqjuv2mgbfml4.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075965/3%20LEWIES/k8otytgzund9wuir13rs.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075966/3%20LEWIES/cgilythnhcyawabodorn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075966/3%20LEWIES/jq5t6zwl0thvzyvxzi0f.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075967/3%20LEWIES/likpv0v79puflsq8db8y.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075968/3%20LEWIES/c0r4knsr4dwbxqq2nenj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075969/3%20LEWIES/dakhxlp6ieqgwyaqimln.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075969/3%20LEWIES/iq6w4cmbg8xvi3elnyob.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075970/3%20LEWIES/w8utufleke7t7sdbqhrw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075971/3%20LEWIES/n7o4kxobfna6k0g5prsy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075972/3%20LEWIES/e1o0yvhslovdlyr242pq.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075972/3%20LEWIES/hqgzigbbnytm2bh4mzrb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075974/3%20LEWIES/yuy4ijmcia8ywi4tvvv4.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075974/3%20LEWIES/zqlrcxb2teengj1whzp9.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075975/3%20LEWIES/yxcvcbgqeifn3n1scip8.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1771075977/3%20LEWIES/sl9scw8krqc306jedvz6.jpg",
+        "Floor size": 0,
+        "Stand size": 1000,
+        "RNO": "\t41185"
+    },
+    {
+        "ID": 1774348948,
+        "Property Type": "Town House",
+        "Price": 770000,
+        "Town": "Kempton Park",
+        "Suburb": "Terenure",
+        "Bedrooms": 2,
+        "Bathrooms": 1,
+        "Garages": 1,
+        "Carports": 1,
+        "Pool": true,
+        "Description": "Stunning Simplex Town House For Sale In Terenure",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349119/Moms%20Falcon%20Haven/km2plzlwavwyorbzhzea.jpg,\r\nhttps://res.cloudinary.com/dag0mcbzj/image/upload/v1774349121/Moms%20Falcon%20Haven/pmfgw0soaprlexro4so1.jpg,\r\nhttps://res.cloudinary.com/dag0mcbzj/image/upload/v1774349103/Moms%20Falcon%20Haven/nakrvavnpesv0bsf347v.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349104/Moms%20Falcon%20Haven/pqwbfgm4xuxvi6rdm9no.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349105/Moms%20Falcon%20Haven/rewxdyobvyrnedapvkkf.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349106/Moms%20Falcon%20Haven/c64jzbjxq9ixrjgzwkcy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349107/Moms%20Falcon%20Haven/oialuzyzo7f6jxnhxdk4.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349108/Moms%20Falcon%20Haven/pcv9kwlbta6aoaab2evw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349109/Moms%20Falcon%20Haven/npoeadh9gmyjcgrccnu6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349111/Moms%20Falcon%20Haven/e4qnnlgkaea6fajxmsgb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349112/Moms%20Falcon%20Haven/xhdz2hvaea37kr6yu4yy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349113/Moms%20Falcon%20Haven/bqoyit84jzofoo1hucdn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349114/Moms%20Falcon%20Haven/on4yzqqpxud1jbywgnvj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349115/Moms%20Falcon%20Haven/fxvu8t3zq9taif0cvwpf.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349116/Moms%20Falcon%20Haven/feqwnmegg9xx5d8mxjbh.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349117/Moms%20Falcon%20Haven/prztrl3rlef8bobefkql.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349118/Moms%20Falcon%20Haven/fzlnnfbehitfd8ovt4sq.jpg,  https://res.cloudinary.com/dag0mcbzj/image/upload/v1774349120/Moms%20Falcon%20Haven/heep72uylpzsmlz8w8ax.jpg",
+        "Floor size": 62,
+        "Stand size": 0,
+        "RNO": null
+    },
+    {
+        "ID": 65909765,
+        "Property Type": "House",
+        "Price": 950000,
+        "Town": "Midrand",
+        "Suburb": "Klipfontein",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Garages": 0,
+        "Carports": 0,
+        "Pool": false,
+        "Description": "Great Investment Opportunity in Klipfontein. 3 Bedroom House with 2 cottages.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350533/1353%20Nigeria%20Klipfontein/hvxwi7ycxdsttwjcitxh.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350535/1353%20Nigeria%20Klipfontein/imiaoez2nmoo8dqbqvl1.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350539/1353%20Nigeria%20Klipfontein/tj5wguhl4imduadypqiw.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350545/1353%20Nigeria%20Klipfontein/lgk1ziufwtajw8xfoocp.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350548/1353%20Nigeria%20Klipfontein/itwr7haabhn12irkja65.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350551/1353%20Nigeria%20Klipfontein/yswdq3kxououd4ln6hj3.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350555/1353%20Nigeria%20Klipfontein/q0dzfgqzb3kxuxq6wmzk.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350559/1353%20Nigeria%20Klipfontein/jxkxcwgaonxon98phtul.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350564/1353%20Nigeria%20Klipfontein/b1mhkujrzciixpugaksk.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350568/1353%20Nigeria%20Klipfontein/s6xtvpauhutasonlggcf.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350573/1353%20Nigeria%20Klipfontein/trtbzpkurrpij76pzfja.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350576/1353%20Nigeria%20Klipfontein/avpgboty003xhxulrkiq.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350580/1353%20Nigeria%20Klipfontein/wsif1ag4nib0eqxpwzsf.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1774350583/1353%20Nigeria%20Klipfontein/fenwq0nixuy5kdjftc0v.jpg",
+        "Floor size": 0,
+        "Stand size": 250,
+        "RNO": null
+    },
+    {
+        "ID": 1770985107,
+        "Property Type": "House",
+        "Price": 1350000,
+        "Town": "Kempton Park",
+        "Suburb": "Cresslawn",
+        "Bedrooms": 3,
+        "Bathrooms": 1,
+        "Garages": 1,
+        "Carports": 1,
+        "Pool": true,
+        "Description": "This spacious, wheelchair-friendly 3-bedroom home is set on a generous 1041 sqm erf in the established suburb of Cresslawn, Kempton Park, South Africa, offering comfortable family living with excellent accessibility. The practical layout includes a lounge, separate dining room, and a functional kitchen that flows well for everyday use and entertaining, while three well-sized bedrooms share a conveniently located bathroom. Outside, the property provides a single garage, two additional parking spaces, staff quarters, outside toilets, and a neatly paved, low-maintenance yard complemented by a swimming pool and lapa for relaxed outdoor living. Modern fibre internet ensures fast connectivity, and an access gate adds to security, making this inviting home in Cresslawn ideal for families seeking space, convenience, and a welcoming community atmosphere.",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985037/49%20Turner/ukthiuzad033ieginkfv.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985038/49%20Turner/gkqnsudpz42pdignt806.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985039/49%20Turner/qnmqrpnejxqjijhvojxm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985040/49%20Turner/jov9wzhqah85dvtawiet.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985041/49%20Turner/y96iqpzwiktyhjmf9upf.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985042/49%20Turner/bgwt4opgmxmnziitne7m.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985043/49%20Turner/anyk1zbl6ufsqg7pdbtv.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985044/49%20Turner/k61na0reno8wjt2i9hox.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985045/49%20Turner/sttnvufqpwbvytddt7t6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985046/49%20Turner/ul6zljk0knhwo8vdoxhc.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985046/49%20Turner/zgebqzaui8tq2xd5dzn3.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985048/49%20Turner/pgzsxp0dhkxyzwsrv25x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985049/49%20Turner/bm0c1icsasfaqkh5atgu.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985050/49%20Turner/rgty4ftr8fuvnw5wktwn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985051/49%20Turner/ourvwijhxzf7jlnxfmeb.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770985052/49%20Turner/vdynhxkoxe4nyvaro5eu.jpg",
+        "Floor size": 0,
+        "Stand size": 1041,
+        "RNO": null
+    },
+    {
         "ID": 786744171,
         "Property Type": "Town House",
         "Price": 780000,
@@ -13,7 +132,8 @@
         "Description": "Simplex town house with private garden for sale in Birchleigh for R780 000",
         "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899777/10_ydvwn6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899776/9_iyjdpn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/5_ddu0lr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/6_pjdy2x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899775/8_llyuxo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899774/1_wouzxr.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899774/7_rhwb3c.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/4_tlnab5.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/2_cvuxwm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770899773/3_cgqfcp.jpg",
         "Floor size": null,
-        "Stand size": null
+        "Stand size": null,
+        "RNO": null
     },
     {
         "ID": 1770910806,
@@ -29,7 +149,8 @@
         "Description": "Great investment opportunity in Kempton Park CBD. This 2 Bed 1st floor flat is available in Angus Court along Kempton road. The property is in good condition is a great investment opportunity for someone looking to extend their property portfolio or a 1st time home-buyer. Electricity is prepaid; levies - R1 800, Rates - R640, potential rental amount - R5 700.",
         "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910614/20260203_082140281_iOS_ibqfzo.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910612/20260203_080632956_iOS_optc2z.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910611/20260203_080601633_iOS_iyctn9.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910609/20260203_080611856_iOS_gsgi2r.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910609/20260203_080544448_iOS_t4hddt.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910608/20260203_080552081_iOS_nms71x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080133375_iOS_zgsgnm.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910608/20260203_080552081_iOS_nms71x.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080527873_iOS_jafpp6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770910607/20260203_080518336_iOS_bfkprk.jpg",
         "Floor size": 60,
-        "Stand size": 0
+        "Stand size": 0,
+        "RNO": null
     },
     {
         "ID": 1770982580,
@@ -43,9 +164,9 @@
         "Carports": 1,
         "Pool": false,
         "Description": "Great investment opportunity in Kempton Park CBD. This 2 Bed 1st floor flat is available in Victoria Close along Kempton road. The property is in good condition is a great investment opportunity for someone looking to extend their property portfolio or a 1st time home-buyer. Electricity is prepaid; levies - R1 685, Rates - R640, potential rental amount - R5 700.",
-        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982506/5%20Victoria%20Close/vm6kqfmvnxyo9fyr1vpy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982480/5%20Victoria%20Close/d8mwysfxgl7aaf6hzfux.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982482/5%20Victoria%20Close/bfzlcky8wwblr3plu9cd.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982485/5%20Victoria%20Close/hjtthinelolzapjbqehn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982487/5%20Victoria%20Close/q4oyoz8f3dkogeq8ctx1.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982490/5%20Victoria%20Close/lqqyfc4bz50weuxpdlbj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982494/5%20Victoria%20Close/zmpfrtxiqw8mv88tffy7.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982496/5%20Victoria%20Close/agxuquz5mrr5ownubplc.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982497/5%20Victoria%20Close/j7nurs3c6ojt1bzyav7d.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982498/5%20Victoria%20Close/x1k9f9ihqltllzpn4uh6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982500/5%20Victoria%20Close/m0wasun8w0yhkru22v48.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982502/5%20Victoria%20Close/dp9w7gckn9gon6qhllho.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982504/5%20Victoria%20Close/bgksxvw6w6rewjbupyfy.jpg",
+        "Pictures": "https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982480/5%20Victoria%20Close/d8mwysfxgl7aaf6hzfux.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982482/5%20Victoria%20Close/bfzlcky8wwblr3plu9cd.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982485/5%20Victoria%20Close/hjtthinelolzapjbqehn.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982487/5%20Victoria%20Close/q4oyoz8f3dkogeq8ctx1.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982490/5%20Victoria%20Close/lqqyfc4bz50weuxpdlbj.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982494/5%20Victoria%20Close/zmpfrtxiqw8mv88tffy7.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982496/5%20Victoria%20Close/agxuquz5mrr5ownubplc.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982497/5%20Victoria%20Close/j7nurs3c6ojt1bzyav7d.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982498/5%20Victoria%20Close/x1k9f9ihqltllzpn4uh6.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982500/5%20Victoria%20Close/m0wasun8w0yhkru22v48.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982502/5%20Victoria%20Close/dp9w7gckn9gon6qhllho.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982504/5%20Victoria%20Close/bgksxvw6w6rewjbupyfy.jpg, https://res.cloudinary.com/dag0mcbzj/image/upload/v1770982506/5%20Victoria%20Close/vm6kqfmvnxyo9fyr1vpy.jpg",
         "Floor size": 60,
-        "Stand size": 0
+        "Stand size": 0,
+        "RNO": null
     }
-
 ]
